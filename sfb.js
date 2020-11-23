@@ -1,1 +1,1 @@
-document.querySelectorAll(".teams-title")[0].innerText = "Skype For Buisness";
+document.querySelectorAll(".teams-title")[0].innerText = "Skype For Business";
